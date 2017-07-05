@@ -7,7 +7,7 @@
       "handlers" : {
         "run" : "onRun"
       },
-      "shortcut" : "command shift s",
+      "shortcut" : "command ctrl shift s",
       "identifier" : "com.bohemiancoding.sketch.runscriptidentifier"
     }
   ],
