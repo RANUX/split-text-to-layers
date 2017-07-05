@@ -5,4 +5,4 @@ Sketch plugin for splitting text lines to layers. Plugin based on [joshwayne/jw-
 Double click on Split Text.sketchplugin.
 
 ## How to use
-Select text layer and then select: Plugins -> Split Text -> split text to layers. (⌘+⌃c+⇧+S)
+Select text layer and then select: Plugins -> Split Text -> split text to layers. (⌘+⌃+⇧+S)
