@@ -13,7 +13,7 @@ function onRun(context) {
           layerString = layer.stringValue(),
           lines = layerString.split("\n"), // split text at new line character
           parent = layer.parentGroup(); // layer parent for removing original layer
-      log("DEBUG: " + lines)
+      // log("DEBUG: " + lines)
       // Create new layer for each line
       for (j=0; j < lines.length; j++) {
         var line = lines[j];
