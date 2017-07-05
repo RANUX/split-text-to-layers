@@ -1,0 +1,25 @@
+{
+  "author" : "",
+  "commands" : [
+    {
+      "script" : "script.cocoascript",
+      "name" : "split text to layers",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "shortcut" : "command shift s",
+      "identifier" : "com.bohemiancoding.sketch.runscriptidentifier"
+    }
+  ],
+  "menu" : {
+    "items" : [
+      "com.bohemiancoding.sketch.runscriptidentifier"
+    ],
+    "title" : "Split Text"
+  },
+  "identifier" : "com.example.sketch.c7ab254d-048b-45d6-b156-b4a36782412f",
+  "version" : "1.0",
+  "description" : "",
+  "authorEmail" : "",
+  "name" : "split text"
+}
